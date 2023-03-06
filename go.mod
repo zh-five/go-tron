@@ -1,4 +1,4 @@
-module github.com/craftto/go-tron
+module github.com/zh-five/go-tron
 
 go 1.18
 
